@@ -38,3 +38,4 @@ Update 1:
 	even knowing how to fluently use this short set of commands will let you navigate around and manipulate files.
 
 Update 2: I doubt you'll ever read this.
+Update 3: I have synchronized this folder as a git repo so I can update it from my chromebook, or the cs machines.
