@@ -1,0 +1,11 @@
+BLook at the source code. (sample.c)
+Try changing something.
+Look at the Makefile. (but dont change anything)
+Use command "make" to compile your changes.
+Execute the file by running  "./sample".
+The output is to stdout which means you can manipulate it with linux commands.
+Try:
+	./sample | less
+	./sample >> outputFile.txt
+	./sample | grep 123.456
+	./sample | grep This >> grepOutput.txt
